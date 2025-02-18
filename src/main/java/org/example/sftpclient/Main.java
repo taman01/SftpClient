@@ -1,4 +1,4 @@
-package org.example;
+package org.example.sftpclient;
 
 
 import com.jcraft.jsch.JSchException;
